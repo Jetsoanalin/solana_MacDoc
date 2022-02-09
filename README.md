@@ -1,1 +1,1 @@
-# solana_MacDoc
+# Solana MAC OS Token Creation Doc
