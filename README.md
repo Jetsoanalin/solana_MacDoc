@@ -111,3 +111,4 @@ Solana Documentation Link
 | Solana Tool Suite | [https://docs.solana.com/cli/install-solana-cli-tools][PlGh] |
 | Cluster Switch | [https://docs.solana.com/cli/choose-a-cluster][PlGd] |
 
+https://solscan.io/token/3srzbmRLrdwNFFXSZZyo1A61StjunZCjx2x7Nf3sviLY?cluster=devnet
